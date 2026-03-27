@@ -1,0 +1,9 @@
+git status = shows what branch/files ur working on
+git add . = add every change to prepare for commit
+git commit -m "message" = creates storage point for fileName with added message
+git push origin branchName = pushes commit to repository for review(dont do it often)
+git checkout -b branchName = makes new branch branchName
+git checkout branchName= switches branches to branchName
+git branch = shows available branches
+git fetch = updates local storage with any new branches/commits/files from github
+git pull = updates the current branch from github with any non-local changes
