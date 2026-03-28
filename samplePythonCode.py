@@ -1,5 +1,6 @@
-msg = "Roll a dice!"
+msg = "The Lash doesn't like dark people."
 print(msg)
-a = 25
+a = 410
 b = 10
 print(a + b)
+c = 69
